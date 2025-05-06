@@ -1,4 +1,4 @@
-# <a href="www.linkedin.com/in/maimuna-ahmed-07a7b2241">MAIMUNA AHMED'S</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="www.linkedin.com/in/maimuna-ahmed-07a7b2241">MAIMUNA AHMED'S</a> IT and Cybersecurity Project Portfolio 🔐
 
 Cybersecurity is more than a career path for me—it's a passion. I enjoy tackling complex challenges through hands-on projects that span areas like vulnerability management, threat detection, and security process improvement. These experiences have allowed me to deepen my skills while staying engaged with the fast-paced, ever-evolving world of cybersecurity. Feel free to explore my projects and see how I’ve applied practical solutions to real-world security needs.
 
