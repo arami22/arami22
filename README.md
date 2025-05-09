@@ -2,10 +2,9 @@
 
 Cybersecurity is more than a career path for me—it's a passion. I enjoy tackling complex challenges through hands-on projects that span areas like vulnerability management, threat detection, and security process improvement. These experiences have allowed me to deepen my skills while staying engaged with the fast-paced, ever-evolving world of cybersecurity. Feel free to explore my projects and see how I’ve applied practical solutions to real-world security needs.
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/arami22/vulnerabilty-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
