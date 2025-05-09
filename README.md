@@ -8,7 +8,7 @@ Cybersecurity is more than a career path for me—it's a passion. I enjoy tackli
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/arami22/threat-hunting-scenario)**
 
 <hr/>
 
